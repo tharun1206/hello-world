@@ -16,8 +16,8 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
     /n
 
-    <label for="DOB"><b>Enter DOB</b></label>
-    <input type="DOB" placeholder="Enter DOB" name="DOB" required>
+    <label for="BOD"><b>Enter DOB</b></label>
+    <input type="BOD" placeholder="Enter B0D" name="BOD" required>
     /n
     
     <label>
